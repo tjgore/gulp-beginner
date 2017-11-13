@@ -1,0 +1,29 @@
+{
+  "name": "gulp-beginner",
+  "version": "1.0.0",
+  "description": "a gulp tutorial for beginners ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjgore/gulp-beginner.git"
+  },
+  "keywords": [
+    "gulp",
+    "javascript",
+    "gulp-beginner",
+    "task-runner"
+  ],
+  "author": "TJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjgore/gulp-beginner/issues"
+  },
+  "homepage": "https://github.com/tjgore/gulp-beginner#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  }
+}
